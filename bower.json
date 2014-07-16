@@ -1,0 +1,26 @@
+{
+   "name": "halp",
+   "version": "0.1.0-pre",
+   "description": "hypertext application language processor",
+   "authors": [],
+   "license": "MIT",
+   "ignore": [
+      ".*",
+      "Gruntfile.js",
+      "node_modules",
+      "bower_components",
+      "docs"
+   ],
+   "dependencies": {
+      "uri-templates": "geraintluff/uri-templates#0.1.x",
+      "angular": "angular/bower-angular#1.2.x",
+      "requirejs": "jrburke/requirejs#2.1.x"
+   },
+   "devDependencies": {
+      "angular-mocks": "angular/bower-angular-mocks#1.2.x",
+      "es5-shim": "es-shims/es5-shim#2.3.x",
+      "jasmine": "pivotal/jasmine#2.0.x",
+      "mockQ": "LaxarJS/q_mock",
+      "requirejs-plugins": "millermedeiros/requirejs-plugins#1.0.x"
+   }
+}
