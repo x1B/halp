@@ -1,3 +1,5 @@
+_work in progress: this code is not ready for consumption_
+
 # HALP!
 ## hypertext application language processor
 
